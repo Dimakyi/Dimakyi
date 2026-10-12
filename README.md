@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Charlotte Masake 👋
 
-<!--
-**Dimakyi/Dimakyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | Python | Data Analytics
 
-Here are some ideas to get you started:
+I'm an aspiring Software Engineer based in Johannesburg, South Africa. I'm developing my technical skills through hands-on projects and continuous learning, with interests in software development, data analytics, and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+
+- **Programming:** Python
+- **Data Analysis:** Microsoft Excel, Power BI (beginner)
+- **Currently developing:** SQL, data visualisation, and software development
+- **Tools:** Git, GitHub, Visual Studio Code
+
+### 🚀 Projects
+
+**FNB App Academy**
+- Python learning exercises and practical coding projects.
+- Practising programming fundamentals and version control.
+
+🔗 [View my FNB App Academy repository](https://github.com/Dimakyi/FNB-App-Academy)
+
+### 🎓 Education & Learning
+
+- **WeThinkCode_** — Software Engineering studies; preparing to complete the final EISA assessment.
+- **Microsoft Data Analytics Programme** — developing data analytics skills.
+- **Excel Certification** — completed.
+
+### 🌱 My Goals
+
+- Build practical projects that demonstrate my technical abilities.
+- Strengthen my Python, SQL, and Power BI skills.
+- Grow into opportunities in software engineering, data analytics, and data science.
+
+### 🤝 Let's Connect
+
+- **GitHub:** [@Dimakyi](https://github.com/Dimakyi)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/charlotte-masake-66a9581b0)
+
+I'm always learning, building, and looking for opportunities to grow in technology.
