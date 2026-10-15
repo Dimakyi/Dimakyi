@@ -1,4 +1,4 @@
-# Hi, I'm Charlotte Masake 👋
+# Hi, I'm Dimakatso Masake 👋
 
 ### Aspiring Software Engineer | Python | Data Analytics
 
