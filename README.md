@@ -32,13 +32,15 @@ I'm continuing to strengthen these skills through practical projects and structu
 
 ### 🧳 Self-Weigh Service
 
-A backend-focused application that simulates an airport self-service luggage weighing and payment service.
+A full-stack airport self-service baggage weighing and payment application, built to explore reliable backend workflows and operational visibility.
 
-The project explores API design, luggage fee calculations, authentication, payment processing, audit logging, financial statements, and reliable event processing. It includes a React and TypeScript operations dashboard for viewing backend connectivity and outbox activity.
+The project includes baggage fee calculations, API authentication, payment processing, audit logging, financial statements, and a React/TypeScript operations dashboard for backend connectivity and event monitoring.
 
-**Technologies:** Python, FastAPI, SQLAlchemy, PostgreSQL, SQLite, Alembic, Pytest, Docker, React, TypeScript
+**Technologies:** Python, FastAPI, SQLAlchemy, PostgreSQL, SQLite, Alembic, Pytest, Docker, React, TypeScript, Kafka, Redpanda
 
-**Current development:** The project includes a transactional outbox and background worker. Event delivery currently uses a logging stand-in; Kafka integration is planned as a future step.
+**Current implementation:** The application uses a transactional outbox and background worker to publish events through Kafka/Redpanda. It includes retry handling, dead-letter handling, and an operations dashboard for monitoring outbox activity.
+
+**Current limitations:** Downstream consumer processing and consumer-side deduplication are still future work. The project is a development portfolio application, not a live airline service.
 
 **Project preview — sample generated statement**
 
