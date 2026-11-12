@@ -40,7 +40,11 @@ The project explores API design, luggage fee calculations, authentication, payme
 
 **Current development:** The project includes a transactional outbox and background worker. Event delivery currently uses a logging stand-in; Kafka integration is planned as a future step.
 
-[View the repository](https://github.com/Dimakyi/self-weigh-service)
+**Project preview — sample generated statement**
+
+![Sample generated statement from Self-Weigh Service](https://raw.githubusercontent.com/Dimakyi/self-weigh-service/main/docs/sample-statement.png)
+
+[View the repository](https://github.com/Dimakyi/self-weigh-service) · [View the project documentation](https://github.com/Dimakyi/self-weigh-service/blob/main/README.md)
 
 ### ☕ CaféQuick
 
